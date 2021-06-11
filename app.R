@@ -135,7 +135,8 @@ ui <- dashboardPage(
       tags$link(rel = "stylesheet", type = "text/css", href = "bulma-7.css"),
       tags$link(rel = "stylesheet", type = "text/css", href = "bulma-8.css"),
       tags$link(rel = "stylesheet", type = "text/css", href = "bulma-9.css"),
-      tags$link(rel = "stylesheet", type = "text/css", href = "bulma-all.css")
+      tags$link(rel = "stylesheet", type = "text/css", href = "bulma-all.css"), 
+      tags$link(rel = "stylesheet", type = "text/css", href = "adminlte.min.css")
     ),
     
     # Boxes need to be put in a row (or column)
